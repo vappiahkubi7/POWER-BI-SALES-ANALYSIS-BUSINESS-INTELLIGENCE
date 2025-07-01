@@ -1,4 +1,4 @@
-# KHABOM SOLUTIONS - SALES ANALYSIS & BUSINESS GROWTH REPORT
+# KHABOM SOLUTIONS - Sales Analysis & Business Growth Report
 
 > Transforming Pharmaceutical Data into Actionable Insights for Strategic Growth
 
